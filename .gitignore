@@ -1,0 +1,12 @@
+/*
+!/.gitignore
+
+# Unignore the "Blackjack MR" folder so we can selectively unignore its contents.
+!Blackjack MR/
+
+# Ignore everything inside "Blackjack MR" by default.
+Blackjack MR/*
+
+# Unignore the Assets folder and its contents inside "Blackjack MR".
+!Blackjack MR/Assets/
+!Blackjack MR/Assets/**
